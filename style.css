@@ -202,3 +202,8 @@ body {
   background-repeat: no-repeat;
 }
  
+/* This CSS rule will remove the underline from the anchor tags with the "no-underline" class */
+a.no-underline {
+  text-decoration: none;
+  color: #ffffff;
+}
