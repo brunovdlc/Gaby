@@ -181,7 +181,7 @@
 }
 /* fim do codigo da cor do quadrado do lado direito */
  .frame .statistic .posts:hover, .frame .statistic .likes:hover, .frame .statistic .follower:hover {
-   color: rgba(252, 69, 2, 0.884);
+   color: #ffffff;
    background: #000000;
    border-bottom: 0.1rem solid white;
 }
